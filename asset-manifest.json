@@ -1,13 +1,29 @@
 {
   "files": {
     "main.css": "/5-react-router/static/css/main.7acaea2f.css",
-    "main.js": "/5-react-router/static/js/main.cb3c8568.js",
+    "main.js": "/5-react-router/static/js/main.2118448a.js",
+    "static/js/175.fca496af.chunk.js": "/5-react-router/static/js/175.fca496af.chunk.js",
+    "static/js/415.8bc86524.chunk.js": "/5-react-router/static/js/415.8bc86524.chunk.js",
+    "static/js/199.94daf5b9.chunk.js": "/5-react-router/static/js/199.94daf5b9.chunk.js",
+    "static/js/939.ef17b1aa.chunk.js": "/5-react-router/static/js/939.ef17b1aa.chunk.js",
+    "static/js/651.a97dfb83.chunk.js": "/5-react-router/static/js/651.a97dfb83.chunk.js",
+    "static/js/229.2b3b7c66.chunk.js": "/5-react-router/static/js/229.2b3b7c66.chunk.js",
+    "static/js/681.aa4185ff.chunk.js": "/5-react-router/static/js/681.aa4185ff.chunk.js",
+    "static/js/128.503e8b84.chunk.js": "/5-react-router/static/js/128.503e8b84.chunk.js",
     "index.html": "/5-react-router/index.html",
     "main.7acaea2f.css.map": "/5-react-router/static/css/main.7acaea2f.css.map",
-    "main.cb3c8568.js.map": "/5-react-router/static/js/main.cb3c8568.js.map"
+    "main.2118448a.js.map": "/5-react-router/static/js/main.2118448a.js.map",
+    "175.fca496af.chunk.js.map": "/5-react-router/static/js/175.fca496af.chunk.js.map",
+    "415.8bc86524.chunk.js.map": "/5-react-router/static/js/415.8bc86524.chunk.js.map",
+    "199.94daf5b9.chunk.js.map": "/5-react-router/static/js/199.94daf5b9.chunk.js.map",
+    "939.ef17b1aa.chunk.js.map": "/5-react-router/static/js/939.ef17b1aa.chunk.js.map",
+    "651.a97dfb83.chunk.js.map": "/5-react-router/static/js/651.a97dfb83.chunk.js.map",
+    "229.2b3b7c66.chunk.js.map": "/5-react-router/static/js/229.2b3b7c66.chunk.js.map",
+    "681.aa4185ff.chunk.js.map": "/5-react-router/static/js/681.aa4185ff.chunk.js.map",
+    "128.503e8b84.chunk.js.map": "/5-react-router/static/js/128.503e8b84.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.cb3c8568.js"
+    "static/js/main.2118448a.js"
   ]
 }
