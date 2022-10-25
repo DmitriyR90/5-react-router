@@ -24,8 +24,10 @@ import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/5-react-router/">
       <App />
     </BrowserRouter>
   </React.StrictMode>
 );
+
+// basename="/5-react-router/"
